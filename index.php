@@ -25,7 +25,7 @@
 
                     <div class="swiper-slide">
                         <div class="image-layer"
-                            style="background-image: url(assets/images/backgrounds/main-slider-1-1.jpg);"></div>
+                            style="background-image: url(assets/images/backgrounds/bg-1.jpg);"></div>
                         <!-- /.image-layer -->
                         <div class="container">
                             <div class="row">
@@ -45,7 +45,7 @@
 
                     <div class="swiper-slide">
                         <div class="image-layer"
-                            style="background-image: url(assets/images/backgrounds/main-slider-1-2.jpg);"></div>
+                            style="background-image: url(assets/images/backgrounds/bg-2.jpg);"></div>
                         <!-- /.image-layer -->
                         <div class="container">
                             <div class="row">

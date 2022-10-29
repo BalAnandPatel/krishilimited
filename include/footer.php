@@ -23,10 +23,10 @@
                                         <h3 class="footer-widget__title">Explore</h3>
                                     </div>
                                     <ul class="footer-widget__Explore-list list-unstyled">
-                                        <li><a href="about.php">About</a></li>
-                                        <li><a href="farmers.html">Our Farmers</a></li>
-                                        <li><a href="project-01.html">New Projects</a></li>
-                                        <li><a href="services.html">Services</a></li>
+                                        <li><a href="index.php">Home</a></li>
+                                        <li><a href="about.php">About Us</a></li>
+                                        <li><a href="gallery.php">Gallery</a></li>
+                                        <li><a href="#">Services</a></li>
                                         <li><a href="contactUs.php">Contact</a></li>
                                     </ul>
                                 </div>

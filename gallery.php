@@ -1,123 +1,123 @@
-<?php include "include/header.php"; ?>
+<?php
+include "include/header.php";
+?>
+
+  <div class="stricky-header stricked-menu main-menu">
+            <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
+        </div><!-- /.stricky-header -->
+
+        <!--Page Header Start-->
+        <section class="page-header">
+            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg)">
+            </div>
+            <div class="container">
+                <div class="page-header__inner">
+                    <ul class="thm-breadcrumb list-unstyled">
+                        <li><a href="index.html">Home</a></li>
+                        <li><span>/</span></li>
+                        <li>Gallery</li>
+                    </ul>
+                    <h2>Our Gallery</h2>
+                </div>
+            </div>
+        </section>
+        <!--Page Header End-->
+
+        <!--Project Page Two Start-->
+        <section class="project-page-two">
+            <div class="container">
+                <div class="row">
+                    <!--Project Page Two Single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="100ms">
+                        <div class="project-two__single">
+                            <div class="project-two__img">
+                                <img src="assets/images/project/gallery-image-1.jpg" height="450px" alt="">
+                                <div class="project-two__content">
+                                    <h3 class="project-two__title"><a href="#">Fishing in sea.
+</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Project Page Two Single Start-->
+                    <!--Project Page Two Single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="200ms">
+                        <div class="project-two__single">
+                            <div class="project-two__img">
+                                <img src="assets/images/project/gallery-image-2.jpg" height="450px" alt="">
+                                <div class="project-two__content">
+                                    <h3 class="project-two__title"><a href="#">Fishes in net
+</a></h3>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Project Page Two Single Start-->
+                    <!--Project Page Two Single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="300ms">
+                        <div class="project-two__single">
+                            <div class="project-two__img">
+                                <img src="assets/images/project/gallery-image-3.jpg" height="450px" alt="">
+                                <div class="project-two__content">
+                                    <h3 class="project-two__title"><a href="#">Fishe's dish
+</a></h3>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Project Page Two Single Start-->
+                    <!--Project Page Two Single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="400ms">
+                        <div class="project-two__single">
+                            <div class="project-two__img">
+                                <img src="assets/images/project/gallery-image-4.jpg" height="450px" alt="">
+                                <div class="project-two__content">
+                                    <h3 class="project-two__title"><a href="#">Fishe's food</a></h3>
+                                   
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Project Page Two Single Start-->
+                    <!--Project Page Two Single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="500ms">
+                        <div class="project-two__single">
+                            <div class="project-two__img">
+                                <img src="assets/images/project/gallery-image-5.jpg" height="450px" alt="">
+                                <div class="project-two__content">
+                                    <h3 class="project-two__title"><a href="#">Fresh fishes </a></h3>
+                                   
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Project Page Two Single Start-->
+                    <!--Project Page Two Single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="600ms">
+                        <div class="project-two__single">
+                            <div class="project-two__img">
+                                <img src="assets/images/project/gallery-image-6.jpg" height="450px" alt="">
+                                <div class="project-two__content">
+                                    <h3 class="project-two__title"><a href="#">Fishing bird</a></h3>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Project Page Two Single Start-->
+                </div>
+                <div class="project-page-one__btn">
+                    <a href="#" class="thm-btn project-page__btn">Load More <i
+                            class="icon-right-arrow"></i>
+                    </a>
+                </div>
+            </div>
+        </section>
+        <!--Project Page Two End-->
 
 
-
-  <div class="page-heading">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 offset-lg-2 header-text">
-          <h2>Gallery</h2>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <section class="portfolio">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-4">
-          <div class="thumb">
-            <img src="assets/images/featured-04.png" height="250px" alt="">
-            <div class="hover-effect">
-              <div class="content">
-                <h4>Company Banner</h4>
-              <!--   <span>Ranked: <em>2nd</em></span>
-                <span>Award Won: <em>None</em></span> -->
-                <ul>
-                  <li><a href="#"><i class="fa fa-heart"></i></a></li>
-                  <li><a href="#"><i class="fa fa-eye"></i></a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-         <div class="col-lg-4">
-          <div class="thumb">
-            <img src="assets/images/featured-05.jpg" height="250px" alt="">
-            <div class="hover-effect">
-              <div class="content">
-                <h4>Fishes in sea.</h4>
-               <!--  <span>Ranked: <em>2nd</em></span>
-                <span>Award Won: <em>None</em></span> -->
-                <ul>
-                  <li><a href="#"><i class="fa fa-heart"></i></a></li>
-                  <li><a href="#"><i class="fa fa-eye"></i></a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-         <div class="col-lg-4">
-          <div class="thumb">
-            <img src="assets/images/featured-06.jpg" height="250px" alt="">
-            <div class="hover-effect">
-              <div class="content">
-                <h4>Fishing in sea.</h4>
-               <!--  <span>Ranked: <em>2nd</em></span>
-                <span>Award Won: <em>None</em></span> -->
-                <ul>
-                  <li><a href="#"><i class="fa fa-heart"></i></a></li>
-                  <li><a href="#"><i class="fa fa-eye"></i></a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4">
-          <div class="thumb">
-            <img src="assets/images/featured-07.jpg" height="250px" alt="">
-            <div class="hover-effect">
-              <div class="content">
-                <h4>Fishe's dish</h4>
-                <!-- <span>Ranked: <em>2nd</em></span>
-                <span>Award Won: <em>None</em></span> -->
-                <ul>
-                  <li><a href="#"><i class="fa fa-heart"></i></a></li>
-                  <li><a href="#"><i class="fa fa-eye"></i></a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4">
-          <div class="thumb">
-            <img src="assets/images/featured-08.jpg" height="250px" alt="">
-            <div class="hover-effect">
-              <div class="content">
-                <h4>Fishing in Pond.</h4>
-                <span>Ranked: <em>2nd</em></span>
-                <span>Award Won: <em>None</em></span>
-                <ul>
-                  <li><a href="#"><i class="fa fa-heart"></i></a></li>
-                  <li><a href="#"><i class="fa fa-eye"></i></a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4">
-          <div class="thumb">
-            <img src="assets/images/featured-09.jpg" height="250px" alt="">
-            <div class="hover-effect">
-              <div class="content">
-                <h4>Fishe's food.</h4>
-              <!--   <span>Ranked: <em>2nd</em></span>
-                <span>Award Won: <em>None</em></span> -->
-                <ul>
-                  <li><a href="#"><i class="fa fa-heart"></i></a></li>
-                  <li><a href="#"><i class="fa fa-eye"></i></a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-       <!--  <div class="col-lg-12">
-          <div class="main-button">
-            <a href="#">Load More Photos</a>
-          </div>
-        </div> -->
-      </div>
-    </div>
-  </section>
-
-<?php include "include/footer.php"; ?>
+<?php
+include "include/footer.php";
+?>

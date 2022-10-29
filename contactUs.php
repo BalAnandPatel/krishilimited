@@ -89,7 +89,7 @@ include "include/header.php";
                                                     <textarea name="message" placeholder="Write a Message"></textarea>
                                                 </div>
                                                 <div class="contact-one__btn-box">
-                                                    <a href="about.html" class="thm-btn contact-one__btn">Send a Message
+                                                    <a href="#" class="thm-btn contact-one__btn">Send a Message
                                                         <i class="icon-right-arrow"></i> </a>
                                                 </div>
                                             </div>
