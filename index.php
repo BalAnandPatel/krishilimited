@@ -34,7 +34,7 @@
                                         <p class="main-slider__sub-title">We are Producing Natural Products</p>
                                         <h2 class="main-slider__title" style="font-size:100px;">SHYAMAVSVSS KRISHI LIMITED</h2>
                                         <div class="main-slider__btn-box">
-                                            <a href="about.html" class="thm-btn main-slider__btn">Discover More <i
+                                            <a href="about.php" class="thm-btn main-slider__btn">Discover More <i
                                                     class="icon-right-arrow"></i> </a>
                                         </div>
                                     </div>
@@ -54,7 +54,7 @@
                                         <p class="main-slider__sub-title">We are Producing Natural Products</p>
                                         <h2 class="main-slider__title" style="font-size:100px;">SHYAMAVSVSS KRISHI LIMITED</h2>
                                         <div class="main-slider__btn-box">
-                                            <a href="about.html" class="thm-btn main-slider__btn">Discover More <i
+                                            <a href="about.php" class="thm-btn main-slider__btn">Discover More <i
                                                     class="icon-right-arrow"></i> </a>
                                         </div>
                                     </div>
@@ -74,7 +74,7 @@
                                         <p class="main-slider__sub-title">We are Producing Natural Products</p>
                                         <h2 class="main-slider__title" style="font-size:100px;">SHYAMAVSVSS KRISHI LIMITED</h2>
                                         <div class="main-slider__btn-box">
-                                            <a href="about.html" class="thm-btn main-slider__btn">Discover More <i
+                                            <a href="about.php" class="thm-btn main-slider__btn">Discover More <i
                                                     class="icon-right-arrow"></i> </a>
                                         </div>
                                     </div>
