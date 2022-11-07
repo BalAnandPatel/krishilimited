@@ -141,7 +141,7 @@
                             </ul>
                             <div class="about-one__btn-and-ceo">
                                 <div class="about-one__btn-box">
-                                    <a href="about.html" class="thm-btn about-one__btn">About More <i
+                                    <a href="about.php" class="thm-btn about-one__btn">About More <i
                                             class="icon-right-arrow"></i> </a>
                                 </div>
                                <!--  <div class="about-one__ceo">
