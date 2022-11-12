@@ -31,9 +31,9 @@ include "include/header.php";
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="100ms">
                         <div class="project-two__single">
                             <div class="project-two__img">
-                                <img src="assets/images/project/gallery-image-1.jpg" height="450px" alt="">
+                                <img src="assets/images/gallery/gallery-image-1.jpeg" height="450px" alt="">
                                 <div class="project-two__content">
-                                    <h3 class="project-two__title"><a href="#">Fishing in sea.
+                                    <h3 class="project-two__title"><a href="#">Gallery Image 1
 </a></h3>
                                 </div>
                             </div>
@@ -44,9 +44,9 @@ include "include/header.php";
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="200ms">
                         <div class="project-two__single">
                             <div class="project-two__img">
-                                <img src="assets/images/project/gallery-image-2.jpg" height="450px" alt="">
+                                <img src="assets/images/gallery/gallery-image-2.jpeg" height="450px" alt="">
                                 <div class="project-two__content">
-                                    <h3 class="project-two__title"><a href="#">Fishes in net
+                                    <h3 class="project-two__title"><a href="#">Gallery Image 2
 </a></h3>
                                     
                                 </div>
@@ -58,9 +58,9 @@ include "include/header.php";
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="300ms">
                         <div class="project-two__single">
                             <div class="project-two__img">
-                                <img src="assets/images/project/gallery-image-3.jpg" height="450px" alt="">
+                                <img src="assets/images/gallery/gallery-image-3.jpeg" height="450px" alt="">
                                 <div class="project-two__content">
-                                    <h3 class="project-two__title"><a href="#">Fishe's dish
+                                    <h3 class="project-two__title"><a href="#">Gallery Image 3
 </a></h3>
                                     
                                 </div>
@@ -72,9 +72,9 @@ include "include/header.php";
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="400ms">
                         <div class="project-two__single">
                             <div class="project-two__img">
-                                <img src="assets/images/project/gallery-image-4.jpg" height="450px" alt="">
+                                <img src="assets/images/gallery/gallery-image-4.jpeg" height="450px" alt="">
                                 <div class="project-two__content">
-                                    <h3 class="project-two__title"><a href="#">Fishe's food</a></h3>
+                                    <h3 class="project-two__title"><a href="#">Gallery Image 4</a></h3>
                                    
                                 </div>
                             </div>
@@ -85,9 +85,9 @@ include "include/header.php";
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="500ms">
                         <div class="project-two__single">
                             <div class="project-two__img">
-                                <img src="assets/images/project/gallery-image-5.jpg" height="450px" alt="">
+                                <img src="assets/images/gallery/gallery-image-5.jpeg" height="450px" alt="">
                                 <div class="project-two__content">
-                                    <h3 class="project-two__title"><a href="#">Fresh fishes </a></h3>
+                                    <h3 class="project-two__title"><a href="#">Gallery Image 5</a></h3>
                                    
                                 </div>
                             </div>
@@ -98,9 +98,9 @@ include "include/header.php";
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="600ms">
                         <div class="project-two__single">
                             <div class="project-two__img">
-                                <img src="assets/images/project/gallery-image-6.jpg" height="450px" alt="">
+                                <img src="assets/images/gallery/gallery-image-6.jpeg" height="450px" alt="">
                                 <div class="project-two__content">
-                                    <h3 class="project-two__title"><a href="#">Fishing bird</a></h3>
+                                    <h3 class="project-two__title"><a href="#">Gallery Image 6</a></h3>
                                     
                                 </div>
                             </div>

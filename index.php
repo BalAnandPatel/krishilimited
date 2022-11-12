@@ -161,13 +161,13 @@
                             <div class="about-one__img-box wow slideInRight" data-wow-delay="100ms"
                                 data-wow-duration="2500ms">
                                 <div class="about-one__img-one">
-                                    <img src="assets/images/resources/about-one-img-1.jpg" alt="">
+                                    <img src="assets/images/home1.jpeg" height="550px" alt="">
                                 </div>
                                 <div class="about-one__img-two">
-                                    <img src="assets/images/resources/about-one-img-2.jpg" alt="">
+                                    <img src="assets/images/featured-08.jpg" height="230px" alt="">
                                 </div>
                                 <div class="about-one__video-link">
-                                    <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ" class="video-popup">
+                                    <a href="assets/videos/video-1.mp4" class="video-popup">
                                         <div class="about-one__video-icon">
                                             <span class="fa fa-play"></span>
                                             <i class="ripple"></i>
