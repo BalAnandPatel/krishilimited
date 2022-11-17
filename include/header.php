@@ -116,7 +116,10 @@
                                                     <li class="scrollToLink">
                                                         <a href="#services">Services</a>
                                                     </li>
-                                                   
+                                                    <li class="scrollToLink">
+                                                        <a href="ourwork.php">Our Work</a>
+                                                    </li>
+
                                                     <li class="scrollToLink">
                                                         <a href="gallery.php">Gallery</a>
                                                     </li>
